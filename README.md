@@ -1,3 +1,5 @@
+<img width="1512" alt="截屏2025-03-04 19 14 49" src="https://github.com/user-attachments/assets/e048eecc-257f-48b0-b9bf-62d6ded158b6" />
+
 # 说明 
 这是一个基于Trae的测试，工作时间为一个周末。
 测试的结果为一个现代化富文本编辑器，支持多种编辑功能和实时协作。
